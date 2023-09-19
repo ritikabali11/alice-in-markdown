@@ -1,5 +1,5 @@
-CHAPTER V.
-Advice from a Caterpillar
+# CHAPTER V.
+## Advice from a Caterpillar
 
 
 The Caterpillar and Alice looked at each other for some time in
@@ -73,52 +73,61 @@ used—and I don’t keep the same size for ten minutes together!”
 
 “Can’t remember _what_ things?” said the Caterpillar.
 
-“Well, I’ve tried to say “How doth the little busy bee,” but it all
+“Well, I’ve tried to say '_How doth the little busy bee,_' but it all
 came different!” Alice replied in a very melancholy voice.
 
-“Repeat, “_You are old, Father William_,’” said the Caterpillar.
+“Repeat, '_You are old, Father William_,’” said the Caterpillar.
 
 Alice folded her hands, and began:—
 
-“You are old, Father William,” the young man said,
-    “And your hair has become very white;
-And yet you incessantly stand on your head—
-    Do you think, at your age, it is right?”
+![Alice folded her hands and began:-](img/illustration-16.png)
 
-“In my youth,” Father William replied to his son,
-    “I feared it might injure the brain;
-But, now that I’m perfectly sure I have none,
-    Why, I do it again and again.”
+_“You are old, Father William,” the young man said,_
+    _“And your hair has become very white;_
+_And yet you incessantly stand on your head—_
+    _Do you think, at your age, it is right?”_
 
-“You are old,” said the youth, “as I mentioned before,
-    And have grown most uncommonly fat;
-Yet you turned a back-somersault in at the door—
-    Pray, what is the reason of that?”
+_“In my youth,” Father William replied to his son,_
+    _“I feared it might injure the brain;_
+_But, now that I’m perfectly sure I have none,_
+    _Why, I do it again and again.”_
 
-“In my youth,” said the sage, as he shook his grey locks,
-    “I kept all my limbs very supple
-By the use of this ointment—one shilling the box—
-    Allow me to sell you a couple?”
+![Yet you turned a back-somersault in at the door—Pray, what is the reason of that](img/illustration-17.png)
 
-“You are old,” said the youth, “and your jaws are too weak
-    For anything tougher than suet;
-Yet you finished the goose, with the bones and the beak—
-    Pray, how did you manage to do it?”
+_“You are old,” said the youth, “as I mentioned before,_
+    _And have grown most uncommonly fat;_
+_Yet you turned a back-somersault in at the door—_
+    _Pray, what is the reason of that?”_
 
-“In my youth,” said his father, “I took to the law,
-    And argued each case with my wife;
-And the muscular strength, which it gave to my jaw,
-    Has lasted the rest of my life.”
+_“In my youth,” said the sage, as he shook his grey locks,_
+    _“I kept all my limbs very supple_
+_By the use of this ointment—one shilling the box—_
+    _Allow me to sell you a couple?”_
 
-“You are old,” said the youth, “one would hardly suppose
-    That your eye was as steady as ever;
-Yet you balanced an eel on the end of your nose—
-    What made you so awfully clever?”
 
-“I have answered three questions, and that is enough,”
-    Said his father; “don’t give yourself airs!
-Do you think I can listen all day to such stuff?
-    Be off, or I’ll kick you down stairs!”
+!["In my youth,” said the sage, as he shook his grey locks, “I kept all my limbs very supple"](img/illustration-18.png)
+
+_“You are old,” said the youth, “and your jaws are too weak_
+    _For anything tougher than suet;_
+_Yet you finished the goose, with the bones and the beak—_
+    _Pray, how did you manage to do it?”_
+
+_“In my youth,” said his father, “I took to the law,_
+    _And argued each case with my wife;_
+_And the muscular strength, which it gave to my jaw,_
+    _Has lasted the rest of my life.”_
+
+!["In my youth," said his father, "I took to the law. And argued each case with my wife"](img/illustration-19.png)
+
+_“You are old,” said the youth, “one would hardly suppose_
+    _That your eye was as steady as ever;_
+_Yet you balanced an eel on the end of your nose—_
+    _What made you so awfully clever?”_
+
+_“I have answered three questions, and that is enough,”_
+    _Said his father; “don’t give yourself airs!_
+_Do you think I can listen all day to such stuff?_
+    _Be off, or I’ll kick you down stairs!”_
 
 
 “That is not said right,” said the Caterpillar.
@@ -293,3 +302,10 @@ upon an open place, with a little house in it about four feet high.
 _this_ size: why, I should frighten them out of their wits!” So she
 began nibbling at the righthand bit again, and did not venture to go
 near the house till she had brought herself down to nine inches high.
+
+### List of Figures
+
+- [Alice folded her hands and began:-](#id-of-illustration-16)
+- [Yet you turned a back-somersault in at the door—Pray, what is the reason of that](#id-of-illustration-17)
+- ["In my youth,” said the sage, as he shook his grey locks, “I kept all my limbs very supple"](#id-of-illustration-18)
+- ["In my youth," said his father, "I took to the law. And argued each case with my wife"](#id-of-illustration-19)
