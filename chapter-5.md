@@ -303,7 +303,7 @@ _this_ size: why, I should frighten them out of their wits!” So she
 began nibbling at the righthand bit again, and did not venture to go
 near the house till she had brought herself down to nine inches high.
 
-### List of Figures
+### List of Illustrations
 
 - [Alice folded her hands and began:-](#id-of-illustration-16)
 - [Yet you turned a back-somersault in at the door—Pray, what is the reason of that](#id-of-illustration-17)

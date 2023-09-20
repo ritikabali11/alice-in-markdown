@@ -166,7 +166,7 @@ scratching and scrambling about in the chimney close above her: then,
 saying to herself “This is Bill,” she gave one sharp kick, and waited
 to see what would happen next.
 
-![She drew her foot as far down the chimney as she could, and waited till she heard a little animal scratching and scramblin.](img/illustration-13.png)
+![She drew her foot as far down the chimney as she could, and waited till she heard a little animal scratching and scrambling.](img/illustration-13.png)
 
 The first thing she heard was a general chorus of “There goes Bill!”
 then the Rabbit’s voice along—“Catch him, you by the hedge!” then
@@ -275,10 +275,10 @@ anything else.
 ![Her eyes immediately met those of a large blue caterpillar, that was sitting on the top with its arms folded.](img/illustration-15.png)
 
 
-### List of Figures
+### List of Illustrations
 
 - [Alice went on growing and growing, and very soon had to kneel down on the floor](#id-of-illustration-11)
 - [She suddenly spread out her hand, and made a snatch in the air.](#id-of-illustration-12)
-- [She drew her foot as far down the chimney as she could, and waited till she heard a little animal scratching and scramblin.](#id-of-illustration-13)
+- [She drew her foot as far down the chimney as she could, and waited till she heard a little animal scratching and scrambling.](#id-of-illustration-13)
 - [She picked up a little bit of stick, and held it out to the puppy](#id-of-illustration-14)
 - [Her eyes immediately met those of a large blue caterpillar, that was sitting on the top with its arms folded.](#id-of-illustration-15)
